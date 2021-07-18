@@ -1,4 +1,4 @@
-# 2. Hotfix Docker
+# 2. Hotfix und Feature docker file
 
 # hotfix einfügen blabla
 
